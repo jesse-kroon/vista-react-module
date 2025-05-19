@@ -26,10 +26,6 @@ function App() {
         <h2>The fakest news</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam est impedit temporibus fugit nisi blanditiis, totam dolore consectetur optio dolores officiis molestias voluptatibus odio, expedita pariatur. Quas quo cum fugit? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque sint, voluptate ducimus, excepturi deserunt labore, officiis delectus ea atque vitae praesentium eveniet eligendi porro dolore molestiae tempore iste corporis incidunt?</p>
       </div>
-
-      <div className='footer'>
-        <p>Created by the best news website. Designed by someone online? 2025</p>
-      </div>
     </>
   )
 }

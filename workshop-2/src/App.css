@@ -7,14 +7,3 @@
   flex-direction: column;
   min-height: 100vh;
 }
-
-.footer {
-  color: #888;
-  width: 100%;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  padding: 1rem 0;
-  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.04);
-  text-align: center;
-}
