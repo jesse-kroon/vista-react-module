@@ -11,7 +11,7 @@ function App() {
 
     {data.map((entry ) => {
       return (
-        <Post  title={entry.title} body={entry.body} />
+        <Post title={entry.title} body={entry.body} />
       )
     })}
 
